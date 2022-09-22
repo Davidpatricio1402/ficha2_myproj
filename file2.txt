@@ -1,0 +1,1 @@
+Este é o exemplo de um ficherio de texto file2
